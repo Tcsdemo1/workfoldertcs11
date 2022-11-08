@@ -1,2 +1,3 @@
 This is a file A
 Change1
+new feature added
